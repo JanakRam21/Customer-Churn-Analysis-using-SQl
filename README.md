@@ -14,7 +14,7 @@ Data Cleaning
 
 /**************************************************
 Data Exploration and Answering business questions
-***************************************************/
+
 
 -- 1. What is the overall customer churn rate?
 
